@@ -212,7 +212,7 @@ export const education = {
   school: "Toronto Metropolitan University",
   degree: "B.Eng, Electrical Engineering",
   period: "Sep 2024 – Apr 2029",
-  gpa: "4.13",
+  gpa: "4.20",
   gpaScale: "/ 4.33",
   program: "FEAS co-op",
   location: "Toronto, ON",
